@@ -1,0 +1,3 @@
+GENERIC TEST: What is the capital of India? [Limit your response to 50 words]
+
+GENERIC PDF CONTENT (from sample_1.pdf): Sample document content placeholder.
